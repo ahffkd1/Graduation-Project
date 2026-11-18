@@ -77,6 +77,6 @@ Sprint 1 데모의 소스코드·실행 파일·실행 명령은 별도 자료�
 
 ---
 
-**프로젝트 팀:** 충남대학교 종합설계2 5조  
+**프로젝트 팀:** 충남대학교 종합설계2 5조(Labigator)  
 **저장소:** https://github.com/ahffkd1/Graduation-Project  
 **README 업데이트 기준일:** 2026-11-18
